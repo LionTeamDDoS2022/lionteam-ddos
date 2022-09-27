@@ -28,9 +28,9 @@ print("""
 
 """)
 
-print('Copyright infringement : LionTeam Admin')
-print('Zalo : https://zalo.me/nhatquyendev ')
-url = input("Thêm URL Website (https//:nhatquyenit.net) >> ")
+print('Copyright infringement : Admin Nguyễn Thanh Sang Chào Mừng Bạn Đã Đến Với Tool Của Sang')
+print('Zalo : 0387317949')
+url = input("Thêm URL Website (https//:kadaiddos.net) >> ")
  
 try:
     threads = int(input("Số Luồng (10.000) > "))
